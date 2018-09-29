@@ -1,0 +1,24 @@
+{
+    "name": "lettellyou/payment",
+    "type": "library",
+    "description": "集成三方银联支付的sdk,目前版本包括环讯网关和快捷、杉德网关和快捷、银联网关和快捷、银盛网关、易宝网关、银生宝网关支付，提供了统一支付入口和回调入口，使开发者快速的接入",
+    "keywords": ["php", "pay", "网关支付", "快捷支付", "集成支付接口SDK", "三方支付", "支付接口"],
+    "homepage": "https://github.com/lettellyou/payment",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zero",
+            "email": "1215220786@qq.com",
+            "homepage": "https://github.com/lettellyou/payment"
+        }
+    ],
+    "require": {
+        "lettellyou/payment": "dev-master",
+        "php": ">=5.6"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {"payment\\": "src/"}
+    }
+}
