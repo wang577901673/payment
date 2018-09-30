@@ -5,6 +5,12 @@ Payment 需要 PHP &gt;= 5.6以上的版本，并且同时需要PHP安装以下�
 # 当前支持的接口
 当前sdk仅接入了环讯支付、杉德支付、银联支付、银盛支付、易宝支付、银生宝支付，后期将添加更多的三方支付
 
+## 安装
+
+通过composer，这是推荐的方式，可以使用composer.json 声明依赖，或者直接运行下面的命令。
+
+composer require lettellyou/payment
+
 ## 环讯支付接口
 
 * **web网关支付**
