@@ -16,7 +16,6 @@
     "require": {
         "php": ">=5.6"
     },
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"payment\\": "src/"}
     }
