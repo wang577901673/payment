@@ -19,9 +19,9 @@ $payData = [
     //'title' => '用户充值',
 ];
 $ipsConfig = [
-    'merCode'=>'208547',
-    'account'=>'2085470017',
-    'merKey'=>'CFFyQ69dquv6YOnagFHDRUoPNfjWQpRmVlvLzxfz8cSyafR8nRsjE4Qtgs2w551gfRoZjT4Pdrl0b95PmZ4nr4o1njYsxUVrA3VpLnBafRKkokZZh8Kg3VgbeKUPR7jM',
+    'merCode'=>'',
+    'account'=>'',
+    'merKey'=>'',
     'returnUrl'=>'https://www.baidu.com',
     'notifyUrl'=>'https://www.baidu.com',
 ];
