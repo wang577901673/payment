@@ -10,8 +10,8 @@ Payment 需要 PHP &gt;= 5.6以上的版本，并且同时需要PHP安装以下�
 通过composer，这是推荐的方式，可以使用composer.json 声明依赖，或者直接运行下面的命令。
 
 composer require lettellyou/payment
-###如果安装失败，可以运行composer config -g --unset repos.packagist，取消国内镜像
-###也可以带上版本号，如：composer require lettellyou/payment:1.1.0
+### 如果安装失败，可以运行composer config -g --unset repos.packagist，取消国内镜像
+### 也可以带上版本号，如：composer require lettellyou/payment:1.1.0
 
 ## 环讯支付接口
 
